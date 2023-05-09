@@ -1,3 +1,9 @@
+# Custom Fork Changes
+
+* Changed install_sdcard.sh to be original work of RyanRudolfOba from Dec 2022
+
+## Original ReadMe Below:
+
 # How to Install SteamOS to a MicroSD
 
 <p align="center">
