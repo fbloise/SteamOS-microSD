@@ -181,7 +181,7 @@ Several reasons why I did this
 
 ![image](https://user-images.githubusercontent.com/98122529/210078972-06cb8f9f-234c-4bf9-b725-bede64101cfa.png)
 
-## Trouble Shooting
+## Troubleshooting
 
 ### The buttons are not working while Greetings
 
