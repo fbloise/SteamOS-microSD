@@ -1,6 +1,6 @@
 # Custom Fork Changes
 
-* Use command ``git clone https://github.com/baldsealion/SteamOS-microSD.git`` in SteamOS, otherwise, steps are the same
+* Use command ``git clone https://github.com/fbloise/SteamOS-microSD.git`` in SteamOS, otherwise, steps are the same
 * Changed install_sdcard.sh to be original work of RyanRudolfOba from Dec 2022
 
 
