@@ -64,8 +64,9 @@ Several reasons why I did this
 ## Requirements
 
 1. [SteamOS Recovery Image](https://help.steampowered.com/en/faqs/view/1b71-edf2-eb6d-2bb3).
-IMPORTANT NOTE: Latest SteamOS image will no longer work. Download an Old Recovery Image such as the _steamdeck-recovery-3.img.bz2 _ from this link:
+IMPORTANT NOTE: Latest SteamOS image will no longer work. Download an Old Recovery Image such as the _steamdeck-recovery-3.img.bz2_ from this link:
 [SteamOS OLD Recovery Image](https://steamdeck-images.steamos.cloud/recovery)
+
 2. USB flash drive for Steam Recovery Image. Recommended size is at least 8GB USB3.
 3. USB C hub / dock, keyboard and mouse. (Skip the USB C hub / dock if you are using a wireless keyboard and mouse).
 4. Spare MicroSD plugged into the MicroSD slot - this is where SteamOS will be installed. Recommended size is at least 32GB A1 / A2 microSD.
